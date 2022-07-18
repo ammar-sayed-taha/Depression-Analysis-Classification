@@ -5,4 +5,4 @@ on that he gives you the level of your depression and gives you some guid links 
 
 <h5>Website Link 👇</h5> 
 <strong>Give it a Try</strong>
-https://deppressionpredictor.000webhostapp.com/
+<a target="_blank">https://deppressionpredictor.000webhostapp.com/</a>
