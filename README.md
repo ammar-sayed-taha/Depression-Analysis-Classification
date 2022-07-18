@@ -1,5 +1,7 @@
 # Depression Analysis and Classification 
 
+<img src="depression.jpg" style="width: 100%; ">
+
 <strong>used to predict if you suffer from depression of your are on the edge of it by answering some questions and based 
 on that he gives you the level of your depression and gives you some guid links that may helps</strong>
 
